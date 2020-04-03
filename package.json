@@ -1,0 +1,16 @@
+{
+  "name": "random-number",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
